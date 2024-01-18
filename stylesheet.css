@@ -1,2 +1,13 @@
-body {background-color: antiquewhite; 
-color: brown;}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+    color: aquamarine;
+}
+head {
+    text-align: center;
+background-color: aliceblue;
+color: aquamarine;
+}
+#jim {
+     border-radius: 20 20 20 20;
+}
